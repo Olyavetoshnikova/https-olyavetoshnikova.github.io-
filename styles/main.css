@@ -37,7 +37,7 @@
 	list-style-type: none;
 	margin-top: 35px;
 }
-.main_image ul li:first_child{
+.main_image ul li:first-child{
 	margin-top: 0;
 }
 .main_li_header{
